@@ -4,3 +4,6 @@ This is a simple project to make your own color. Here are 3 scale bar to make co
 Used module:
 1. tkinter
 2. tkinter.constants
+
+
+![banner](https://github.com/shahrierjaman/python_colerMaker/assets/157677455/2cc46f1a-4975-4664-b4f6-a9d68c78f567)
