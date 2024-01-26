@@ -5,5 +5,5 @@ Used module:
 1. tkinter
 2. tkinter.constants
 
+![image](https://github.com/shahrierjaman/python_colerMaker/assets/157677455/468ae5cc-e3ef-4335-a9dc-6c9092c49890)
 
-![banner](https://github.com/shahrierjaman/python_colerMaker/assets/157677455/2cc46f1a-4975-4664-b4f6-a9d68c78f567)
